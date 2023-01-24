@@ -1,0 +1,35 @@
+.grid img {
+	box-shadow: 5px 5px 5px 5px rgb(18 16 16 / 40%);
+	margin-bottom: 10px;
+}
+img:hover {
+	border: 3px solid rgb(0 249 235);
+}
+.btn:hover {
+	margin-top: 10px;
+	box-shadow: 5px 5px 5px 5px rgb(18 16 16 / 40%);
+	margin-bottom: 6px;
+}
+div.text-base {
+	font-weight: 700;
+    color: rgb(126 22 22);
+}
+div.text-base:hover {
+	font-size: 1.1rem;
+	font-weight: 700;
+    color: red;
+}
+body>div>div>div {
+	background-color: rgb(230 214 253) !important;
+}
+p.text-center {
+	font-weight: 700;
+}
+footer div {
+	color: black !important;
+	font-weight: 700;
+}
+footer a:hover {
+	color: red;
+	font-size: 1rem;
+}
